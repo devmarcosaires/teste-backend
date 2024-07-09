@@ -67,4 +67,4 @@ O projeto é estruturado em diversos componentes que seguem as melhores prática
   
 ## Contato
 - Email: devmarcosaires@gmail.com
-- LinkedIn:[https://linkedin.com/seu-perfil](https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/](https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/)
+- LinkedIn:https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/](https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/)

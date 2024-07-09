@@ -59,11 +59,11 @@ O projeto é estruturado em diversos componentes que seguem as melhores prática
 - Execute `php artisan test` para executar os testes automatizados.
   
 ### Instale vite
-- npm install vite --save-dev
+-  `npm install vite --save-dev`
 
 ### Rodando o Projeto
 - Execute `php artisan serve` para iniciar o servidor de desenvolvimento.
-- Execute 'npm run dev' para iniciar o ambiente de desenvolvimento.
+- Execute `npm run dev` para iniciar o ambiente de desenvolvimento.
   
 ## Contato
 - Email: devmarcosaires@gmail.com

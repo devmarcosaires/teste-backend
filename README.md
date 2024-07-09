@@ -35,3 +35,36 @@ O projeto é estruturado em diversos componentes que seguem as melhores prática
 1. Clone o repositório:
    ```bash
    git clone https://github.com/devmarcosaires/teste-backend.git
+
+## Instruções
+
+### Compilação
+- Execute `composer install` para instalar as dependências do Laravel.
+
+### Configuração do Banco de Dados
+- Configure as variáveis de ambiente em `.env` com suas credenciais de banco de dados.
+  
+  Exemplo:  
+  DB_CONNECTION=mysql
+  DB_HOST=127.0.0.1
+  DB_PORT=3306
+  DB_DATABASE=teste-backend
+  DB_USERNAME=root
+  DB_PASSWORD=
+
+### Migração do Banco de Dados
+- Execute `php artisan migrate` para migrar as tabelas do banco de dados.
+
+### Execução dos Testes
+- Execute `php artisan test` para executar os testes automatizados.
+  
+### Instale vite
+- npm install vite --save-dev
+
+### Rodando o Projeto
+- Execute `php artisan serve` para iniciar o servidor de desenvolvimento.
+- Execute 'npm run dev' para iniciar o ambiente de desenvolvimento.
+  
+## Contato
+- Email: devmarcosaires@gmail.com
+- LinkedIn: [Seu LinkedIn]([https://linkedin.com/seu-perfil](https://www.linkedin.com/in/marcos-henrique-aires-98b4261b8/))

@@ -41,6 +41,9 @@ O projeto é estruturado em diversos componentes que seguem as melhores prática
 ### Compilação
 - Execute `composer install` para instalar as dependências do Laravel.
 
+### Gere uma nova chave da aplicação
+- Execute `php artisan key:generate`
+
 ### Configuração do Banco de Dados
 - Configure as variáveis de ambiente em `.env` com suas credenciais de banco de dados.
   
@@ -63,6 +66,9 @@ O projeto é estruturado em diversos componentes que seguem as melhores prática
 
 ### Rodando o Projeto
 - Execute `php artisan serve` para iniciar o servidor de desenvolvimento.
+
+### Instalar Dependências do NPM 
+- Execute  `npm install` para instalar as dependências.
 - Execute `npm run dev` para iniciar o ambiente de desenvolvimento.
   
 ## Contato
